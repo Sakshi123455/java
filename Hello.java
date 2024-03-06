@@ -1,1 +1,8 @@
-hgjhghgh
+class
+{
+    public static void main (String [] main)
+    {
+        System.out.println("hello");
+        
+    }
+}
